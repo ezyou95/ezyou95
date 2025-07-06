@@ -9,12 +9,12 @@
 ### :man_technologist: About Me :
 
 - :earth_africa: **Paris, France**
-- :tools: Favorite tools : **Visual Studio Code**, **GitHub**, **Git**
+- 🛠️ Favorite tools : **Visual Studio Code**, **GitHub**, **Git**
 - :technologist: **16 YO**
 
 ---
 
-### :tools: Tools :
+### 🛠️ Tools :
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
